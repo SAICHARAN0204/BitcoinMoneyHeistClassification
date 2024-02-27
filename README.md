@@ -9,11 +9,7 @@ This project focuses on classifying Bitcoin ransomware using machine learning cl
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Bitcoin is the world's largest cryptocurrency. Unlike fiat currency, Bitcoin is created, distributed, traded, and stored using a decentralized ledger system known as a blockchain.The Bitcoin Heist is a well-known case that has garnered the greatest media attention as a result of the increasing scandals. A substantial dataset that dates back to the Bitcoin Heist incident has been located. We will describe various approaches to determining whether or not transactions based on a given Bitcoin address are malicious using the foundations of  machine learning. We aims to elucidate the fundamentals of machine learning underlying ransomware and cryptocurrencies. We will achieve this by utilising multiple models, including SVM-RBF, K-Nearest Neighbour (KNN), and Random Forest.
