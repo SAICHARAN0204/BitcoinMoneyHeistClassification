@@ -32,7 +32,7 @@ Bitcoin is the world's largest cryptocurrency. Unlike fiat currency, Bitcoin is 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/bitcoin-ransomware-classification.git
+    git clone https://github.com/saicharan0204/bitcoin-ransomware-classification.git
     cd bitcoin-ransomware-classification
     ```
 
